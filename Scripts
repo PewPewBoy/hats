@@ -8,6 +8,6 @@ loadstring(game:HttpGet("", true))() -- I dont like typing this piece of shit
 
 
 
-loadstring(game:HttpGet("", true))() -- Normal Valk
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/hats/main/Normal%20Blue%20Valk", true))() -- Normal Valk
 
-loadstring(game:HttpGet("", true))() -- Ice Valk
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/hats/main/Ice%20Valk", true))() -- Ice Valk
